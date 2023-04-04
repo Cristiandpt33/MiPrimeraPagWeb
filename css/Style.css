@@ -1,0 +1,9 @@
+html {background-color: rgb(247, 158, 173) ;}
+
+h1 {color: rgb(7, 7, 7);
+    font-weight: 300;
+text-align: center;}
+h2 {text-align: center;}
+h5{text-align: center;}
+
+a:hover{ color: rgb(93, 241, 241);}
